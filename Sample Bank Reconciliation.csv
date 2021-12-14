@@ -1,0 +1,49 @@
+Unnamed: 0,BANK RECONCILIATION,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,,,,,
+,BANK NAME,XYZ BANK,,,
+,,,,,
+,ACCOUNT NUMBER,0000000000,,,
+,,,,,
+,MONTH ENDING ,2009-03-31 00:00:00,,,
+,, ,,,
+,,,,,
+,BALANCE PER BANK STATEMENT,,2009-03-31 00:00:00, ,100000
+,,,,,
+,,,,,
+,   Deposits in transit:,,,,
+,,,,2005-03-31 00:00:00,25000
+,,,,,
+,,,,,
+,   Outstanding Checks:,,,,
+,,,,Check # 1234,-100
+,,,,Check # 1235,-25
+,,,,Check # 1236,-75
+,,,,Check # 1237,-50
+,,,,,
+,,,,,
+,,,,,
+,ADJUSTED BANK BALANCE,, ,,124750
+,,,,,
+,,,,,
+,BALANCE PER GENERAL LEDGER,,2009-03-31 00:00:00,,124750
+,,,,,
+,,,,,
+,Deposits not recorded,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Checks/Electronic Transfers not Recorded,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,ADJUSTED LEDGER BALANCE,, ,,124750
+,,,,,
+,,,,,
+,,,,,
+,,,Variance,,0
+,,,,,
+,,,,,
+,,,,,
+,Prepared by,Date,,Reviewed by,Date

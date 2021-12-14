@@ -1,0 +1,6 @@
+Trade Date,Activity,Gross Amount,Unit Price,Units,Total Units
+"Oct 1, 2016",Opening Balance,,,,210.010
+"Oct 31, 2016",Dividend Reinvestment,$1.74,$10.00,0.174,210.184
+"Nov 30, 2016",Dividend Reinvestment,$1.74,$10.00,0.174,210.358
+"Dec 30, 2016",Dividend Reinvestment,$1.74,$10.00,0.174,210.532
+"Dec 31, 2016",Closing Balance,,,,210.532
